@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurudeen Abdul-Karim
 - 👀 I’m interested in Python, Django, Flask, JavaScript, React, C and C++
-- 🌱 I’m currently trying to get a dev job
+- 🌱 I'm freelancing on Upwork
 - 💞️ I’m looking to collaborate on all interesting projects
 - 📫 How to reach me nurudeen.karim2016@gmail.com
 
